@@ -3,7 +3,7 @@ Die Daten in Perbit HR bilden die ideale Basis für eine automatisierte und fehl
 ## Perbit-Schnittstelle für die automatisierte und regelbasierte Verwaltung von Benutzerkonten in Active Directory, Microsoft Entra ID und weiteren Systemen
 Heben Sie Ihre Benutzerverwaltung auf ein neues Level und befreien Sie Ihre IT von Routinearbeit mit Ihrem HR-System als Basis für ein automatisiertes, regelbasiertes und fehlerfreies User Life Cycle Management.
 
-# User Provisioning aus Perbit 
+## User Provisioning aus Perbit 
 Durch die Integration werden alle Änderungen in Perbit automatisch von unserem IAM-System erkannt und entsprechend der konfigurierten Prozesse (Eintritt, Änderung, Austritt) und der hinterlegten Business Rules in allen angebundenen Systemen synchronisiert.
 
 ## Ihre Vorteile eines automatisierten Perbit-Konnektors
