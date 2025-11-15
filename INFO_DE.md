@@ -1,4 +1,3 @@
-# HelloID-Conn-Prov-Source-Perbit
 rexx systems-Schnittstelle für die automatisierte und regelbasierte Verwaltung von Benutzerkonten in Active Directory, Microsoft Entra ID und weiteren Systemen
 
 Die Daten in Perbit HR bilden die ideale Basis für eine automatisierte und fehlerfreie Benutzerverwaltung. Über einen Connector zwischen Perbit und Ihrem Netzwerk erhalten Mitarbeitende auf Basis ihrer HR-Daten – wie Name, Abteilung oder Eintrittsdatum – automatisch passende Zugriffsrechte.
